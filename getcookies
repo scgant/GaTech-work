@@ -1,7 +1,7 @@
 <?php 
 $html = <<<EOT
 
-<script>alert("document.cookies")</script>
+<script>alert("document.cookie")</script>
 
 EOT;
 
